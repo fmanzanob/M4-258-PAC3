@@ -3,7 +3,9 @@
   "version": "3.3.0",
   "private": true,
   "description": "Boilerplate for Advanced HTML/CSS Tools UOC students",
+  
   "scripts": {
+    "Todosloshtml": "parcel src/*.html",
     "parcel:serve": "parcel src/index.html -p 8123 --target web --open",
     "parcel:build": "parcel build src/index.html --target web --no-source-maps --no-cache",
     "clean": "rimraf dist .cache .cache-loader .parcel-cache",
@@ -45,6 +47,7 @@
     "tailwindcss": "^2.2.19"
   },
   "dependencies": {
-    "@fortawesome/fontawesome-free": "^5.15.4"
+    "@fortawesome/fontawesome-free": "^5.15.4",
+    "postcss": "^8.4.5"
   }
 }
