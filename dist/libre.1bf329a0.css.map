@@ -1,0 +1,1 @@
+{"mappings":"","sources":["src/assets/styles/libre.scss"],"sourcesContent":["\r\n\r\n\r\n\r\n$tour-color: #161af5;\r\n$primary:       $tour-color !default;\r\n"],"names":[],"version":3,"file":"libre.1bf329a0.css.map","sourceRoot":"/__parcel_source_root/"}
