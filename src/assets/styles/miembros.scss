@@ -56,6 +56,10 @@ h1 {
 
  @tailwind utilities;
 
+ /*
+ * Creación de componentes apply
+ */
+
  @layer components {
   .categoria-titulo{
     @apply bg-yellow-400 text-3xl;
